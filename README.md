@@ -1,5 +1,5 @@
 # Large-Language-Models
-Completed Udemy Courses on Generative AI and Large Language Models with collaboration of Google Cloud.
+
 <img width="551" alt="transformer" src="https://github.com/Harsh-Yadav-02/Large-Language-Models/assets/75542099/8952b36d-3a66-4ca0-ab98-67b6e0eb4018">
 <img width="553" alt="responsible_ai" src="https://github.com/Harsh-Yadav-02/Large-Language-Models/assets/75542099/b08e52f1-c7c1-4c42-8441-823dc5b46588">
 <img width="555" alt="LLM_udacity" src="https://github.com/Harsh-Yadav-02/Large-Language-Models/assets/75542099/388274d9-3638-42fb-878c-4ae49bc30e15">
